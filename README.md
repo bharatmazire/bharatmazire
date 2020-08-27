@@ -1,10 +1,10 @@
 ### Hi there I am Bharat 👋
 
-- 🎓 Engineer
+- 🎓 Computer Engineer
 
-- 🔭 I’m currently working on : C, C++
+- 🔭 Currently working on : C, C++
 
-- 🌱 I’m currently learning   : OpenGL and DirectX
+- 🌱 Currently learning   : OpenGL, DirectX, CUDA
 
 ---
 ### Languages and Tools:
